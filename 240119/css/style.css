@@ -1,0 +1,112 @@
+body {background-color: #666;}
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.group-66 {
+  flex-shrink: 0;
+  width: 664.54px;
+  height: 100.99px;
+  position: static;
+}
+/* box */
+.rectangle-6 {
+  background: #ffffff;
+  border-radius: 30.3px 0px 30.3px 0px;
+  width: 690px;
+  height: 100.99px;
+  position: relative;
+  left: calc(50% - 332.27px);
+  top: 0px;
+}
+.frame-68 {
+  display: flex;
+  flex-direction: row;
+  gap: 144px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 37px;
+  top: 27.27px;
+}
+.frame-67 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sk {
+  color: var(--sk-pic-point-color, #e0002b);
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 14.13907241821289px;
+  font-weight: 700;
+  position: relative;
+}
+._2024-01-12 {
+  color: #858585;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14.13907241821289px;
+  font-weight: 600;
+  position: relative;
+}
+._23-4-house-hr {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20.198673248291016px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-2 {
+  background: var(--sk-pic-point-color, #e0002b);
+  border-radius: 50.5px;
+  padding: 4px 29px 4px 29px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.d-3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16.158939361572266px;
+  font-weight: 700;
+  position: relative;
+}
